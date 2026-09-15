@@ -29,15 +29,16 @@ Each 314.4 element gets its own writeup — methodology, how it was approached, 
 | (h) | Incident response plan | [`06-incident-response-plan.md`](docs/06-incident-response-plan.md) |
 | (f) | Service provider oversight | [`07-service-provider-oversight.md`](docs/07-service-provider-oversight.md) |
 | (e) | Security awareness & training | [`08-security-awareness-training.md`](docs/08-security-awareness-training.md) |
-
-*(g) program evaluation/adjustment and (i) board/ownership reporting are ongoing governance activities rather than standalone artifacts — they're referenced throughout the docs above rather than broken out separately.*
+| (g) | Program review & adjustment | [`09-program-review-adjustment.md`](docs/09-program-review-adjustment.md) |
+| (i) | Board / ownership reporting | [`10-board-reporting.md`](docs/10-board-reporting.md) |
 
 ## What's Next
 
 - [ ] Finish collecting and reassessing service provider contracts against the safeguards-clause requirement
 - [ ] Close out the safeguards gap-check items currently marked Partial/Missing
 - [ ] Add the first round of sanitized document screenshots across all sections
-- [ ] Draft the annual QI report to ownership once the assessment cycle closes
+- [x] Draft the annual QI report to ownership once the assessment cycle closes
+- [ ] Obtain signatures finalizing every drafted plan (QI designation, testing/monitoring, training, incident response, service provider oversight, program review policy)
 
 ## Repo Contents
 
