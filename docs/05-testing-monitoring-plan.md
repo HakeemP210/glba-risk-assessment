@@ -24,8 +24,7 @@ Testing scope is split by who actually controls the system:
 
 This scope split matters enough to call out on its own: running a scanner against a system you don't have authorization to test isn't due diligence, it's a separate problem. Documenting *why* something is out of scope is as important as documenting what's in scope.
 
-> 📸 **Screenshot placeholder:** `images/testing-monitoring/testing-cadence-table.png`
-> A cropped screenshot of the testing cadence table (activity / frequency / performed-by / scope columns) from the plan. This section is framework-only, no PII — safe to show close to as-is, just crop out the header/footer with the real institution's contact info.
+![Testing cadence and responsibilities table](../images/testing-monitoring/testing-cadence-table.png)
 
 ### Cadence & responsibilities
 

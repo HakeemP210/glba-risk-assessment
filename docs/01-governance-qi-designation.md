@@ -16,8 +16,7 @@ The institution's ownership issued a short written designation memo that:
 
 Keeping this as a one-page, signed document (rather than folding it into a longer policy) makes it easy to produce on request during an accreditation or Department of Education review — it's the first artifact most reviewers ask for.
 
-> 📸 **Screenshot placeholder:** `images/governance/qi-designation-memo.png`
-> A cropped screenshot of the Qualified Individual Designation memo — header/logo area and specific names/titles beyond "Qualified Individual" blurred, keeping only the visible structure (date, authority citation, the numbered responsibilities list, and the reporting-line paragraph).
+![Qualified Individual Designation memo excerpt, with the director's name blurred](../images/governance/qi-designation-memo.png)
 
 ## Why this matters
 

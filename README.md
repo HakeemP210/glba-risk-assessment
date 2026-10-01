@@ -36,7 +36,7 @@ Each 314.4 element gets its own writeup — methodology, how it was approached, 
 
 - [ ] Finish collecting and reassessing service provider contracts against the safeguards-clause requirement
 - [ ] Close out the safeguards gap-check items currently marked Partial/Missing
-- [ ] Add the first round of sanitized document screenshots across all sections
+- [x] Add the first round of sanitized document screenshots across all sections
 - [x] Draft the annual QI report to ownership once the assessment cycle closes
 - [ ] Obtain signatures finalizing every drafted plan (QI designation, testing/monitoring, training, incident response, service provider oversight, program review policy)
 

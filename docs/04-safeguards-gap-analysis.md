@@ -23,8 +23,7 @@ Each of the eight required safeguard categories gets a straightforward status:
 
 Anything short of "Implemented" becomes an entry in the [risk register](03-risk-assessment-methodology.md) with an assigned owner and target date — the gap check itself is a status snapshot; the register is where the actual remediation gets tracked to closure.
 
-> 📸 **Screenshot placeholder:** `images/gap-check/safeguards-gap-check.png`
-> A cropped view of the 8-category gap-check spreadsheet, showing the category list and status column. Blur any "Notes" or "Evidence" cells that reference specific tools, vendors, or systems by name.
+![Safeguards gap check spreadsheet, with vendor-specific evidence notes blurred](../images/gap-check/safeguards-gap-check.png)
 
 ## Why this matters
 

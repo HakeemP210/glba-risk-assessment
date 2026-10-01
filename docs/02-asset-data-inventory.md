@@ -26,8 +26,7 @@ Systems fall into a few natural buckets:
 
 Mapping data flow (where PII *enters*, *moves*, *rests*, and *exits*) on top of this list is what actually feeds the risk analysis — a system holding sensitive data that's also internet-facing and outside the institution's direct control scores very differently than one that's neither.
 
-> 📸 **Screenshot placeholder:** `images/asset-inventory/asset-data-inventory.png`
-> A cropped view of the asset/data inventory spreadsheet — 2–3 representative rows with any real vendor/product names and internal system nicknames blurred or replaced with the generic category labels used above (e.g., "Student Information System," "Financial Aid Servicer"). Column headers (System, Hosting, Data Type, Owner) can stay visible.
+![Asset & data inventory excerpt showing federally-hosted systems](../images/asset-inventory/asset-data-inventory.png)
 
 ## Why this matters
 

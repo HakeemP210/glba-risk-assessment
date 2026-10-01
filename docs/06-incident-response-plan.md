@@ -37,8 +37,7 @@ External notification obligations are genuinely layered for a Title IV instituti
 
 > These obligations under GLBA, FERPA, state law, and Title IV can overlap in ways that genuinely need legal counsel before external notification — the plan says so explicitly rather than pretending it's a solved problem. The current FSA incident-reporting procedure and contact are confirmed and kept on file *before* an incident, not looked up during one.
 
-> 📸 **Screenshot placeholder:** `images/incident-response/five-phase-diagram.png`
-> The five-phase response process diagram/table and the roles & responsibilities table. No PII in this section — safe to show close to as-is, crop out header/footer institution contact info.
+![Five-phase incident response process table](../images/incident-response/five-phase-diagram.png)
 
 ### Remediation, documentation, and revision
 
@@ -46,8 +45,7 @@ Every control weakness identified during or after an incident gets logged into t
 
 The plan itself gets reviewed within 15 business days of any incident's resolution, and at least annually independent of whether an incident occurred.
 
-> 📸 **Screenshot placeholder:** `images/incident-response/incident-log-template.png`
-> The blank incident log template — this is safe to show in full since it's an empty form with no real incident data in it.
+![Blank incident log template](../images/incident-response/incident-log-template.png)
 
 ### It's been tested once, for real
 

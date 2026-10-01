@@ -26,8 +26,7 @@ NIST CSF 2.0's six functions (**Govern, Identify, Protect, Detect, Respond, Reco
 
 This crosswalk is the single artifact that answers "how does this map to a recognized framework" in one place, and it's the backbone every other document in this repo cites back to.
 
-> 📸 **Screenshot placeholder:** `images/crosswalk-risk-register/compliance-crosswalk.png`
-> A cropped view of the 314.4 → NIST CSF 2.0 compliance crosswalk spreadsheet. No PII risk here — this tab is pure framework mapping — but crop out any tab names/file paths that reference the real institution.
+![314.4 to NIST CSF 2.0 compliance crosswalk spreadsheet](../images/crosswalk-risk-register/compliance-crosswalk.png)
 
 ## Risk Analysis & Scoring
 
@@ -42,8 +41,7 @@ Each risk register entry carries:
 - Likelihood, Impact, and resulting risk score/rating
 - Current safeguard status, assigned owner, and target remediation date
 
-> 📸 **Screenshot placeholder:** `images/crosswalk-risk-register/risk-register.png`
-> A cropped view of the risk register — 3–5 representative rows. Blur any narrative "Description" or "Notes" cells that describe specific systems, vendors, or internal details; the Likelihood/Impact/Score/Status columns and the scoring legend are safe to show as-is.
+![Risk register sample entry showing likelihood/impact scoring](../images/crosswalk-risk-register/risk-register.png)
 
 ## Why this matters
 

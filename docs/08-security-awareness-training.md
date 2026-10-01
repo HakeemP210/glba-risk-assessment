@@ -15,8 +15,7 @@
 - **Frequency:** annually, plus at time of hire for any new personnel granted access to student/customer information
 - **Content:** drawn directly from risks identified in the [risk register](03-risk-assessment-methodology.md) — training content changes as risks are identified or resolved, instead of being a generic annual slideshow disconnected from what's actually been found
 
-> 📸 **Screenshot placeholder:** `images/training/handout-cover-topics.png`
-> A cropped screenshot of the training handout — the cover/topic-list page works well since it shows structure without any completed acknowledgment data. Do not screenshot any signed acknowledgment log — those contain real staff names/signatures.
+![Security awareness training handout, cover and first two topics](../images/training/handout-cover-topics.png)
 
 ### Qualified information security personnel — 314.4(e)(2)
 

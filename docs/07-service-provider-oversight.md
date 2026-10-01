@@ -12,8 +12,7 @@
 
 The institution's service provider category applies to any contracted third party that handles customer information on its behalf — for this program that means the student information system vendor, the enrollment/lead-processing servicer, and the loan servicing contact vendor. A regulator, an accreditor, and a mass-market consumer product with no negotiable service agreement are each explicitly called out as *out of scope* for this plan (they're addressed elsewhere — regulators/accreditors aren't "acting on the institution's behalf," and the consumer product is tracked as its own item in the risk register pending a planned migration to a managed business-grade plan). Being explicit about what's *not* in scope, and why, is as important as the list of what is.
 
-> 📸 **Screenshot placeholder:** `images/service-provider-oversight/scope-table.png`
-> A cropped view of the service provider scope table — replace real vendor names with generic role labels ("Student Information System," "Enrollment Servicer," "Loan Contact Servicer") before screenshotting, or blur the Vendor column entirely and leave only the Role column visible.
+![Service provider scope table, with vendor names blurred](../images/service-provider-oversight/scope-table.png)
 
 ### Selecting & retaining providers
 
@@ -23,8 +22,7 @@ Before engaging a new provider, the institution documents a review of available 
 
 Each in-scope provider's contract is tracked for whether it contains an adequate safeguards clause, with status logged directly against risk register entries — "not yet confirmed" is a legitimate, honestly-documented status while contracts are being collected and reviewed, same as any other gap in the program.
 
-> 📸 **Screenshot placeholder:** `images/service-provider-oversight/contract-status-table.png`
-> A cropped view of the contract safeguards-clause status table. Blur the Vendor column; the Contract Safeguards Clause status and Risk Register ID columns are safe to show.
+![Contract safeguards-clause status table, with vendor names blurred](../images/service-provider-oversight/contract-status-table.png)
 
 ### Periodic reassessment
 
