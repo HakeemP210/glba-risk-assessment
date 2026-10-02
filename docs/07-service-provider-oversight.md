@@ -20,9 +20,11 @@ Before engaging a new provider, the institution documents a review of available 
 
 ### Requiring safeguards by contract
 
-Each in-scope provider's contract is tracked for whether it contains an adequate safeguards clause, with status logged directly against risk register entries — "not yet confirmed" is a legitimate, honestly-documented status while contracts are being collected and reviewed, same as any other gap in the program.
+Each in-scope provider's contract is tracked for whether it contains an adequate safeguards clause, with status logged directly against risk register entries. "Not yet confirmed" was the honest starting status for all three while contracts were being collected; all three have since been obtained and reviewed, with findings — not assumptions — now driving the register:
 
 ![Contract safeguards-clause status table, with vendor names blurred](../images/service-provider-oversight/contract-status-table.png)
+
+The outcome was uneven, which is the point of actually reading the contracts instead of assuming they're fine: one provider's current terms require "administrative, technical, and physical safeguards" and include an explicit incident-notification commitment — the strongest language of the three. A second has a general confidentiality clause but no specific breach-notification timeframe. A third was confirmed to have no safeguards clause of any kind, and that same review surfaced a data pathway to downstream federal loan-servicing systems that hadn't been documented before. Each finding produced a different outcome in the risk register — one risk downgraded, one raised — rather than a uniform "contracts reviewed, all clear."
 
 ### Periodic reassessment
 
@@ -30,7 +32,7 @@ Every in-scope provider is reassessed **annually on a fixed calendar schedule**,
 
 ## Why this matters
 
-A service provider that handles customer information on the institution's behalf is effectively an extension of the institution's own attack surface — GLBA holds the institution accountable for that provider's safeguards, not just its own. A fixed reassessment schedule and an explicit "not yet confirmed" status (instead of silence) are what keep this from becoming a check-the-box exercise done once at contract signing and never revisited.
+A service provider that handles customer information on the institution's behalf is effectively an extension of the institution's own attack surface — GLBA holds the institution accountable for that provider's safeguards, not just its own. A fixed reassessment schedule and an explicit, honestly-tracked status (instead of silence, and instead of assuming a contract is fine until proven otherwise) are what keep this from becoming a check-the-box exercise done once at contract signing and never revisited.
 
 ## Related
 

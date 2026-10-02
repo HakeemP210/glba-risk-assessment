@@ -10,8 +10,7 @@
 
 Each annual report is checked line-by-item against all six required elements before it goes to ownership — not written freeform and hoped to be complete. Risk findings are stated in the same terms the risk register itself uses (the same risk IDs, the same High/Medium/Low ratings), rather than translated into a softer separate narrative that can drift from what the underlying data actually says.
 
-> 📸 **Screenshot placeholder:** `images/board-reporting/annual-report-header.png`
-> The header block and section headings of the annual report (Program Status / Risk Assessment Results / Safeguard Effectiveness / Service Provider Risk / Incidents Since Last Report / Recommendations) — no need to show body paragraphs, the section structure alone demonstrates the six-element coverage.
+![Annual report header and section structure, with identifying details blurred](../images/board-reporting/annual-report-header.png)
 
 ### An honest finding from reviewing a prior report
 

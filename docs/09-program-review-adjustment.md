@@ -15,12 +15,13 @@ The program gets reviewed on two tracks:
 
 Every review — scheduled or triggered — gets logged in a running **Program Change Log**: date, trigger, what changed, which documents were affected. The point of the log isn't bureaucratic box-checking — it's what lets anyone (an auditor, a reviewer, a future version of me) verify that "the program gets reviewed and adjusted" is an actual practice and not just a sentence in a policy document.
 
-> 📸 **Screenshot placeholder:** `images/program-review/change-log.png`
-> A cropped view of the Program Change Log spreadsheet — the Date, Trigger Category, and Documents Affected columns are safe to show as-is; blur the "What Changed" narrative cells if they reference anything institution-specific beyond what's already described generically in this repo.
+![Program Change Log, sample entries](../images/program-review/change-log.png)
 
 ### This isn't theoretical — see the incident response writeup
 
 The clearest example of a triggered review in this program is documented in detail in [Incident Response Plan](06-incident-response-plan.md#its-been-tested-once-for-real): a real security incident, surfaced partway through a scheduled annual review, resulted in a new risk register entry, two existing risk ratings raised to reflect confirmed real-world precedent, a correction to that year's board report, and a confirmed update to the plan's external reporting contact — all in the same review cycle, all logged.
+
+A second, equally real example: completing the [service provider contract review](07-service-provider-oversight.md) across three separate vendors produced three separate log entries over two weeks, not one — each contract came back with a different finding, and each finding moved the risk register in a different direction (one risk downgraded, one raised). The log entries above show exactly that.
 
 ## Why this matters
 
