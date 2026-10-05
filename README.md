@@ -1,15 +1,15 @@
-# GLBA Safeguards Rule Risk Assessment
+# GLBA Safeguards Rule Risk Assessment Program
 
 ![Regulation](https://img.shields.io/badge/regulation-16%20CFR%20314-183A61)
 ![Framework](https://img.shields.io/badge/framework-NIST%20CSF%202.0-3765A0)
 ![Sector](https://img.shields.io/badge/sector-Title%20IV%20Higher%20Ed-557C94)
 ![Status](https://img.shields.io/badge/status-Risk%20Assessment%20Complete-2E7D4F)
 
-> **A note on what's real here:** the methodology, framework mapping, document structure, and artifacts in this repo come directly from a GLBA Safeguards Rule risk assessment I built for the institution I work for. The *institution's identity* doesn't — no institution name, logo, address, or other identifying detail appears anywhere in this repo, and any document screenshots have identifying details and personal names blurred or masked before they go in. The methodology and the work are real, the "who" is deliberately generic.
+> **A note on what's real here:** the procedure, framework mapping, document structure, and artifacts in this repo come directly from a GLBA Safeguards Rule risk assessment I built for the institution I work for. The *institution's identity* does not appear anywhere in this repo, and any document screenshots have identifying details and personal names blurred or masked before they go in. The procedures and the work are real, the "who" is deliberately generic.
 
-I handle regulatory compliance for a Title IV institution, and one of my responsibilities was building out our GLBA Safeguards Rule Information Security Program from the ground up — not auditing an existing one, actually building it: the risk assessment, the safeguards, the testing plan, the incident response plan, all of it. The written risk assessment required under 314.4(b) — asset inventory, threat/vulnerability analysis, a scored 18-item risk register, and a full compliance crosswalk — is complete. I'm packaging the methodology here both to have a clean public writeup of how a real 314.4 program comes together end to end, and to pair with my [cybersecurity homelab project](https://github.com/HakeemP210/HakeemP210) as hands-on evidence of the practical side of the same skill set.
+I handle regulatory compliance for a Title IV institution, and one of my responsibilities was building out our GLBA Safeguards Rule Information Security Program from the ground up. Not auditing an existing one, actually building it including the risk assessment, the safeguards, the testing plan, the incident response plan, all of it. The written risk assessment required under 314.4(b) has been completed and includes an asset inventory, threat/vulnerability analysis, a scored 18-item risk register, and a full compliance crosswalk. I'm packaging the procedures here to have a clean public writeup of how a real 314.4 program comes together end to end.
 
-This is a living project — the risk assessment itself is done, but safeguards implementation, service provider remediation, and future review cycles will keep this updated going forward.
+This is a living project meaning the risk assessment itself is done, but safeguards implementation, service provider remediation, and future review cycles will keep this updated going forward.
 
 ## Why GLBA + NIST CSF 2.0
 
