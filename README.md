@@ -17,7 +17,7 @@ The Safeguards Rule (16 CFR §314.4) doesn't mandate a specific framework, but b
 
 ## Walkthrough
 
-Each 314.4 element gets its own writeup — methodology, how it was approached, and why it matters, with screenshots of the real (sanitized) artifacts as they're finished:
+Each element of 16 CFR § 314.4 has its own dedicated write-up that documents the step-by-step process, explains how the requirement was addressed, and outlines why it is important. Each section also includes screenshots of the actual, sanitized artifacts created during the implementation process.
 
 | 314.4 | Element | Doc |
 |---|---|---|
@@ -34,19 +34,14 @@ Each 314.4 element gets its own writeup — methodology, how it was approached, 
 
 ## What's Next
 
-- [x] Finish collecting and reviewing service provider contracts against the safeguards-clause requirement (all three vendors reviewed September&ndash;October 2026)
-- [x] Obtain signatures finalizing every drafted plan (QI designation, testing/monitoring, training, incident response, service provider oversight, program review policy)
-- [x] Add the first round of sanitized document screenshots across all sections
-- [x] Finalize the annual report to ownership, covering all six required elements of 314.4(i)
 - [ ] Close out the safeguards gap-check items currently marked Partial/Missing — tracked as an ongoing 314.4(c) implementation workstream, separate from the completed risk assessment
-- [ ] Negotiate the two highest-priority service-provider gaps: a safeguards clause with the vendor that currently has none, and a specific breach-notification SLA with the two that only commit to "reasonable" or "without unreasonable" delay
 
 ## Repo Contents
 
 | Path | What it is |
 |---|---|
 | `README.md` | You're reading it |
-| `docs/` | One write-up per 314.4 element — methodology, approach, and why it matters |
+| `docs/` | One write-up per 314.4 element: procedures, approach, and why it matters |
 | `images/` | Sanitized/blurred screenshots of the real artifacts, organized by topic |
 
 ## Disclaimer
