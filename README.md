@@ -13,7 +13,7 @@ This is a living project meaning the risk assessment itself is done, but safegua
 
 ## Why GLBA + NIST CSF 2.0
 
-TThe Safeguards Rule under 16 CFR § 314.4 does not mandate the use of a specific cybersecurity framework. However, structuring the information security program around an established framework makes the program more defensible, consistent, and adaptable. [NIST CSF 2.0](03-risk-assessment-methodology.md)'s six functions (Govern, Identify, Protect, Detect, Respond, Recover) map cleanly onto 314.4's nine sub-elements, so a single crosswalk can therefore serve two purposes.It demonstrates how the institution addresses the Safeguards Rule requirements. It also gives the information security program a recognized structure that can be easily understood by reviewers, auditors, and cybersecurity professionals.
+The Safeguards Rule under 16 CFR § 314.4 does not mandate the use of a specific cybersecurity framework. However, structuring the information security program around an established framework makes the program more defensible, consistent, and adaptable. [NIST CSF 2.0](03-risk-assessment-methodology.md)'s six functions (Govern, Identify, Protect, Detect, Respond, Recover) map cleanly onto 314.4's nine sub-elements, so a single crosswalk can therefore serve two purposes.It demonstrates how the institution addresses the Safeguards Rule requirements. It also gives the information security program a recognized structure that can be easily understood by reviewers, auditors, and cybersecurity professionals.
 
 ## Walkthrough
 
