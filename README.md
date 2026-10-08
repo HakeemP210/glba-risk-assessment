@@ -34,7 +34,7 @@ Each element of 16 CFR § 314.4 has its own dedicated write-up that documents th
 
 ## What's Next
 
-- [ ] Close out the safeguards gap-check items currently marked Partial/Missing — tracked as an ongoing 314.4(c) implementation workstream, separate from the completed risk assessment
+- [ ] Close out the safeguards gap-check items currently marked Partial/Missing. This is tracked as an ongoing 314.4(c) implementation workstream, separate from the completed risk assessment
 
 ## Repo Contents
 
