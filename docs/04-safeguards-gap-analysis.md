@@ -11,7 +11,7 @@ Section 314.4(c) requires the institution to design and implement safeguards to 
 Each of the eight required safeguard categories gets a straightforward status of implemented, partial, or missing:
 
 | # | Safeguard Category | 
-|---|---|---|
+|---|---|
 | 1 | Access controls |
 | 2 | Data inventory & classification |
 | 3 | Encryption (at rest and in transit) |
